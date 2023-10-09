@@ -9,9 +9,9 @@
  * @param {number}
  * @returns {boolean}
  */
-
-// ここに関数を定義しましょう
-// ここに関数を定義しましょう
+function over100(number) {
+  return number >= 100;
+}
 
 // ここからはテストなので変更を加えないでください
 console.log("*** 問題 ***");
